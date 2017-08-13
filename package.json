@@ -1,0 +1,20 @@
+{
+  "name": "get-post-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denakv/get-post-request.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denakv/get-post-request/issues"
+  },
+  "homepage": "https://github.com/denakv/get-post-request#readme",
+  "dependencies": {}
+}
